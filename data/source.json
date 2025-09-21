@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Regulation (EU) 2023/1230 on machinery (Official Journal)",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32023R1230"
+  },
+  {
+    "title": "Rockwell â€” A Guide to the Machinery Regulation (EU) 2023/1230",
+    "url": "https://literature.rockwellautomation.com/idc/groups/literature/documents/sp/oem-sp123_-en-p.pdf"
+  },
+  {
+    "title": "OSHA 3170 â€” Safeguarding Equipment and Protecting Employees from Amputations",
+    "url": "https://www.osha.gov/sites/default/files/publications/osha3170.pdf"
+  },
+  {
+    "title": "SICK â€” Guide for Safe Machinery: Six Steps to a Safe Machine",
+    "url": "https://www.sick.com/media/docs/8/78/678/special_information_guide_for_safe_machinery_en_im0014678.pdf"
+  },
+  {
+    "title": "SICK â€” Safety Guide for the Americas",
+    "url": "https://www.sick.com/media/docs/6/06/606/special_information_safety_guide_for_the_americas_en_im0032606.pdf"
+  },
+  {
+    "title": "Rockwell â€” Machinery SafeBook 5",
+    "url": "https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf"
+  },
+  {
+    "title": "ABB â€” Safety in Control Systems according to EN ISO 13849-1",
+    "url": "https://search.abb.com/library/Download.aspx?DocumentID=2TLC172003B02002"
+  },
+  {
+    "title": "IFA â€” SISTEMA Cookbook 1",
+    "url": "https://www.dguv.de/medien/ifa/en/pra/softwa/sistema/kochbuch/sistema_cookbook1_end.pdf"
+  },
+  {
+    "title": "IFA â€” Functional safety of machine controls (Application of EN ISO 13849), IFA Report 2/2017e",
+    "url": "https://www.dguv.de/medien/ifa/en/pub/rep/pdf/reports-2019/report0217e/rep0217e.pdf"
+  },
+  {
+    "title": "DGUV â€” Fourth edition of EN ISO 13849-1: Most important new features in 2023",
+    "url": "https://publikationen.dguv.de/widgets/pdf/download/article/4894"
+  },
+  {
+    "title": "Emerson â€” Machine Safety Guide: Pneumatic Solutions",
+    "url": "https://www.emerson.com/documents/automation/brochure-machine-safety-guide-pneumatic-solutions-en-7073434.pdf"
+  },
+  {
+    "title": "Eaton â€” Safety Manual (EN ISO 13849-1 and IEC 62061)",
+    "url": "https://www.eaton.com/content/dam/eaton/markets/machinebuilding/service-and-support/documents/eaton-safety-manual-pu05907001z-en-us.pdf"
+  },
+  {
+    "title": "SLAC â€” Machine Guarding Guideline",
+    "url": "https://www-group.slac.stanford.edu/esh/eshmanual/references/toolsGuideMachineGuardOptions.pdf"
+  },
+  {
+    "title": "OSHA â€” Machine Guarding Checklist",
+    "url": "https://www.osha.gov/sites/default/files/2020-05/Machine%20Guarding%20Checklist.pdf"
+  },
+  {
+    "title": "ZVEI - Application of EN ISO 13849-1 and EN 62061 (Technical Guide No. 10)",
+    "url": "https://www.zvei.org/en/press-media/publications/application-of-en-iso-13849-1-and-en-62061"
+  },
+  {
+    "title": "Pilz - Safety and functional safety, A general guide",
+    "url": "https://www.pilz.com/en-INT/know-how/downloads/functional-safety/general-guide"
+  },
+  {
+    "title": "Pilz - UKCA marking for machines and systems - a practical guide",
+    "url": "https://www.pilz.com/en-GB/know-how/downloads/ukca"
+  },
+  {
+    "title": "TÜV Rheinland - Functional Safety: Testing and Certification of Machines and Plants",
+    "url": "https://www.tuv.com/world/en/functional-safety-for-machinery.html"
+  },
+  {
+    "title": "IFA - SISTEMA Cookbook 5 - Parameter entry for pneumatic components",
+    "url": "https://www.dguv.de/ifa/praxishilfen/software-gefaehrdungsbeurteilung/sistema/sistema-cookbooks/index.jsp"
+  },
+  {
+    "title": "Schmersal - Machine Safety Brochure",
+    "url": "https://www.schmersal.com/en_US/services/machine-safety/brochures-and-guides"
+  },
+  {
+    "title": "Oregon OSHA - Safety Committee Handbook: Chapter 1 - Machine Guarding",
+    "url": "https://osha.oregon.gov/edu/pubs/factsheets/fs31.pdf"
+  },
+  {
+    "title": "Hokuyo - A Safety Laser Scanner Application Guide: Reducing Hazards",
+    "url": "https://www.hokuyo-aut.jp/02sensor/07scanner/download/products/ust/safe_scanner_application_guide_en.pdf"
+  },
+  {
+    "title": "IRSC - An Overview of ISO 10218 Parts 1 and 2 (Todd Dickey)",
+    "url": "https://www.robotics.org/filestore/safety/IRSC11_06_Dickey.pdf"
+  },
+  {
+    "title": "RIA/IEEE - Moving from Voluntary to Mandatory Standards (Roberta Nelson Shea)",
+    "url": "https://www.robotics.org/filestore/RIA-IEEE-RAS-Safety-Workshop-2019/Franklin.pdf"
+  }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "id": "easy_1",
+        "question": "What is machine guarding?"
+    },
+    {
+        "id": "medium_1",
+        "question": "Explain the concept of Performance Level (PL)."
+    },
+    {
+        "id": "medium_2",
+        "question": "What does SRP/CS stand for?"
+    },
+    {
+        "id": "tricky_1",
+        "question": "What are the six steps to a safe machine according to the SICK guide?"
+    },
+    {
+        "id": "tricky_2",
+        "question": "What are the requirements for UKCA marking after 2024?"
+    },
+    {
+        "id": "comparative_1",
+        "question": "What is the difference between EN ISO 13849-1 and IEC 62061?"
+    },
+    {
+        "id": "out_of_scope_1",
+        "question": "What is the best way to cook pasta?"
+    },
+    {
+        "id": "specific_1",
+        "question": "What is SISTEMA?"
+    }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "01",
+    "title": "Regulation (EU) 2023/1230 on machinery (Official Journal)",
+    "file_name": "01_regulation-eu-2023-1230-on-machinery-official-journal.pdf",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32023R1230"
+  },
+  {
+    "id": "02",
+    "title": "Rockwell \u00e2\u20ac\u201d A Guide to the Machinery Regulation (EU) 2023/1230",
+    "file_name": "02_rockwell-a-guide-to-the-machinery-regulation-eu-2023-1230.pdf",
+    "url": "https://literature.rockwellautomation.com/idc/groups/literature/documents/sp/oem-sp123_-en-p.pdf"
+  },
+  {
+    "id": "03",
+    "title": "OSHA 3170 \u00e2\u20ac\u201d Safeguarding Equipment and Protecting Employees from Amputations",
+    "file_name": "03_osha-3170-safeguarding-equipment-and-protecting-employees-fr.pdf",
+    "url": "https://www.osha.gov/sites/default/files/publications/osha3170.pdf"
+  },
+  {
+    "id": "04",
+    "title": "SICK \u00e2\u20ac\u201d Guide for Safe Machinery: Six Steps to a Safe Machine",
+    "file_name": "04_sick-guide-for-safe-machinery-six-steps-to-a-safe-machine.pdf",
+    "url": "https://www.sick.com/media/docs/8/78/678/special_information_guide_for_safe_machinery_en_im0014678.pdf"
+  },
+  {
+    "id": "05",
+    "title": "SICK \u00e2\u20ac\u201d Safety Guide for the Americas",
+    "file_name": "05_sick-safety-guide-for-the-americas.pdf",
+    "url": "https://www.sick.com/media/docs/6/06/606/special_information_safety_guide_for_the_americas_en_im0032606.pdf"
+  },
+  {
+    "id": "06",
+    "title": "Rockwell \u00e2\u20ac\u201d Machinery SafeBook 5",
+    "file_name": "06_rockwell-machinery-safebook-5.pdf",
+    "url": "https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf"
+  },
+  {
+    "id": "07",
+    "title": "ABB \u00e2\u20ac\u201d Safety in Control Systems according to EN ISO 13849-1",
+    "file_name": "07_abb-safety-in-control-systems-according-to-en-iso-13849-1.pdf",
+    "url": "https://search.abb.com/library/Download.aspx?DocumentID=2TLC172003B02002"
+  },
+  {
+    "id": "08",
+    "title": "IFA \u00e2\u20ac\u201d SISTEMA Cookbook 1",
+    "file_name": "08_ifa-sistema-cookbook-1.pdf",
+    "url": "https://www.dguv.de/medien/ifa/en/pra/softwa/sistema/kochbuch/sistema_cookbook1_end.pdf"
+  },
+  {
+    "id": "09",
+    "title": "IFA \u00e2\u20ac\u201d Functional safety of machine controls (Application of EN ISO 13849), IFA Report 2/2017e",
+    "file_name": "09_ifa-functional-safety-of-machine-controls-application-of-en-.pdf",
+    "url": "https://www.dguv.de/medien/ifa/en/pub/rep/pdf/reports-2019/report0217e/rep0217e.pdf"
+  },
+  {
+    "id": "10",
+    "title": "DGUV \u00e2\u20ac\u201d Fourth edition of EN ISO 13849-1: Most important new features in 2023",
+    "file_name": "10_dguv-fourth-edition-of-en-iso-13849-1-most-important-new-fea.pdf",
+    "url": "https://publikationen.dguv.de/widgets/pdf/download/article/4894"
+  },
+  {
+    "id": "11",
+    "title": "Emerson \u00e2\u20ac\u201d Machine Safety Guide: Pneumatic Solutions",
+    "file_name": "11_emerson-machine-safety-guide-pneumatic-solutions.pdf",
+    "url": "https://www.emerson.com/documents/automation/brochure-machine-safety-guide-pneumatic-solutions-en-7073434.pdf"
+  },
+  {
+    "id": "12",
+    "title": "Eaton \u00e2\u20ac\u201d Safety Manual (EN ISO 13849-1 and IEC 62061)",
+    "file_name": "12_eaton-safety-manual-en-iso-13849-1-and-iec-62061.pdf",
+    "url": "https://www.eaton.com/content/dam/eaton/markets/machinebuilding/service-and-support/documents/eaton-safety-manual-pu05907001z-en-us.pdf"
+  },
+  {
+    "id": "13",
+    "title": "SLAC \u00e2\u20ac\u201d Machine Guarding Guideline",
+    "file_name": "13_slac-machine-guarding-guideline.pdf",
+    "url": "https://www-group.slac.stanford.edu/esh/eshmanual/references/toolsGuideMachineGuardOptions.pdf"
+  },
+  {
+    "id": "14",
+    "title": "OSHA \u00e2\u20ac\u201d Machine Guarding Checklist",
+    "file_name": "14_osha-machine-guarding-checklist.pdf",
+    "url": "https://www.osha.gov/sites/default/files/2020-05/Machine%20Guarding%20Checklist.pdf"
+  },
+  {
+    "id": "15",
+    "title": "ZVEI - Application of EN ISO 13849-1 and EN 62061 (Technical Guide No. 10)",
+    "file_name": "15_zvei-application-of-en-iso-13849-1-and-en-62061-technical-gu.pdf",
+    "url": "https://www.zvei.org/en/press-media/publications/application-of-en-iso-13849-1-and-en-62061"
+  },
+  {
+    "id": "16",
+    "title": "Pilz - Safety and functional safety, A general guide",
+    "file_name": "16_pilz-safety-and-functional-safety-a-general-guide.pdf",
+    "url": "https://www.pilz.com/en-INT/know-how/downloads/functional-safety/general-guide"
+  },
+  {
+    "id": "17",
+    "title": "Pilz - UKCA marking for machines and systems - a practical guide",
+    "file_name": "17_pilz-ukca-marking-for-machines-and-systems-a-practical-guide.pdf",
+    "url": "https://www.pilz.com/en-GB/know-how/downloads/ukca"
+  },
+  {
+    "id": "18",
+    "title": "T\u00dcV Rheinland - Functional Safety: Testing and Certification of Machines and Plants",
+    "file_name": "18_t-v-rheinland-functional-safety-testing-and-certification-of.pdf",
+    "url": "https://www.tuv.com/world/en/functional-safety-for-machinery.html"
+  },
+  {
+    "id": "19",
+    "title": "IFA - SISTEMA Cookbook 5 - Parameter entry for pneumatic components",
+    "file_name": "19_ifa-sistema-cookbook-5-parameter-entry-for-pneumatic-compone.pdf",
+    "url": "https://www.dguv.de/ifa/praxishilfen/software-gefaehrdungsbeurteilung/sistema/sistema-cookbooks/index.jsp"
+  },
+  {
+    "id": "20",
+    "title": "Schmersal - Machine Safety Brochure",
+    "file_name": "20_schmersal-machine-safety-brochure.pdf",
+    "url": "https://www.schmersal.com/en_US/services/machine-safety/brochures-and-guides"
+  }
+]
