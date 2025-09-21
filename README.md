@@ -40,7 +40,7 @@ python ingest.py
 ```
 This process may take a few minutes as it downloads the embedding model and processes all 20 documents.
 
-### Step 2: Start the API
+### Step 2: Start the API and frontend in 2 seperate terminals
 
 Launch the FastAPI service using Uvicorn.
 
@@ -48,6 +48,11 @@ Launch the FastAPI service using Uvicorn.
 uvicorn api:app --reload
 ```
 The API will be available at `http://127.0.0.1:8000`.
+
+```bash
+streamlit run app.py
+```
+the frontend will be available at `http://192.168.1.3:8501`
 
 ### Step 3: Query the API (Example `curl` Requests)
 
