@@ -81,6 +81,8 @@ curl -X POST "[http://127.0.0.1:8000/ask](http://127.0.0.1:8000/ask)" \
 }'
 ```
 
+##NOTE: you can also test the same questions directly by just typing the question on the streamlit ui 
+
 ### Step 4: Run Evaluation
 
 To see the before/after comparison, run the evaluation script while the API is running in another terminal.
