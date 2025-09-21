@@ -99,12 +99,3 @@ The `evaluate.py` script produces the following comparison, showing how the rera
 | What is the best way to cook pasta?                                   | **ABSTAINED**: Top result score (0.05) is below the threshold of 0.4.                                           | N/A                                                             | **ABSTAINED**: Top result score (0.24) is below the threshold of 0.4.                                           | N/A                                                               |
 | What is SISTEMA?                                                      | Introduction. SISTEMA (Safety Integrity Software Tool for the Evaluation of Machine Applications) is a... | 08_Ifa Sistema Cookbook 1                                       | Introduction. SISTEMA (Safety Integrity Software Tool for the Evaluation of Machine Applications) is a... | 08_Ifa Sistema Cookbook 1                                       |
 
-## What I Learned
-
-Building this mini-RAG system was a practical exercise in understanding the trade-offs between different retrieval methods. Here are my key takeaways:
-
-1.  **Reranking is a High-Impact Improvement:** The "before/after" table clearly shows that the hybrid reranker consistently surfaces more relevant documents. For queries with specific acronyms (like "SRP/CS") or proper nouns ("SICK guide"), the keyword search component (SQLite FTS5) acts as a powerful corrective, pulling up documents that contain the exact term, which a pure vector search might rank lower if the semantic context is ambiguous.
-
-2.  **The Two-Stage Process is Efficient:** The architecture of retrieving a larger set of candidates with a "cheap" vector search and then applying a more nuanced (but still fast) reranking on that small set is highly effective. It avoids running expensive keyword searches across the entire database for every query while still getting the benefits. The `alpha` parameter for blending scores is a critical tuning knob; for this technical domain, giving the keyword score a meaningful weight (`1 - alpha = 0.5`) proved essential.
-
-3.  **Abstention is a Crucial Feature:** Implementing a simple score threshold for providing an answer is a vital guardrail. It allows the system to gracefully handle out-of-scope questions ("how to cook pasta") or questions where its confidence is low, which is far better than providing a wrong or irrelevant "best guess." This builds user trust and makes the system more reliable.
