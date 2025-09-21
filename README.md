@@ -6,7 +6,7 @@ This project implements a small Retrieval-Augmented Generation (RAG) service for
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/anjanabharamnaikar/mini-RAG/edit/main
+    git clone https://github.com/anjanabharamnaikar/mini-RAG
     cd mini-rag-project
     ```
 
